@@ -1,4 +1,4 @@
-# Final delivery - Databasecourse
+# Final delivery - Database course
 Team members:
 - Manuel Alejandro Gallego
 - Jerónimo Gómez Restrepo
